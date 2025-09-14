@@ -37,3 +37,10 @@ Prints the first argument converted to an integer:
 - If not → `Not a number`
 
 
+### 6. Multi Languages Loop
+**File:** `6-multi_languages_loop.js`  
+Prints 3 lines using an array and a loop:  
+- C is fun  
+- Python is cool  
+- JavaScript is amazing
+
