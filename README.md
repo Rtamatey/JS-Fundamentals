@@ -30,3 +30,10 @@ Prints the first argument passed to the script:
 - If no arguments → `No argument`  
 - If one argument → prints that argument
 
+### 5. To Integer
+**File:** `5-to_integer.js`  
+Prints the first argument converted to an integer:  
+- If the first argument can be converted → `My number: <integer>`  
+- If not → `Not a number`
+
+
