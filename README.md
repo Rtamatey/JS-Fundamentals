@@ -9,3 +9,24 @@ Each file introduces a fundamental concept of JavaScript programming.
 
 - **0-javascript_is_amazing.js**  
   Prints the message:  
+
+
+### 1. Multi Languages
+**File:** `1-multi_languages.js`  
+Prints 3 lines:
+
+
+
+### 2. Arguments
+**File:** `2-arguments.js`  
+Prints a message depending on the number of arguments passed:  
+- If no arguments → `No argument`  
+- If one argument → `Argument found`  
+- If more than one argument → `Arguments found`
+
+### 3. Value Argument
+**File:** `3-value_argument.js`  
+Prints the first argument passed to the script:  
+- If no arguments → `No argument`  
+- If one argument → prints that argument
+
