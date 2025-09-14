@@ -49,3 +49,15 @@ Prints 3 lines using an array and a loop:
 Prints “C is fun” x times, where x is the first argument.  
 - If x is not provided or not an integer, prints: *Missing number of occurrences*
 
+## 8. Square
+
+**File:** `8-square.js`
+
+A script that prints a square.
+
+- The first argument is the size of the square.
+- If the first argument can’t be converted to an integer, it prints `Missing size`.
+- Uses the character `X` to print the square.
+- Uses a loop (`for`).
+
+
