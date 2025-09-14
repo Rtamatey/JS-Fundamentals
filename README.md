@@ -44,3 +44,8 @@ Prints 3 lines using an array and a loop:
 - Python is cool  
 - JavaScript is amazing
 
+### 7. Multi C
+**File:** `7-multi_c.js`  
+Prints “C is fun” x times, where x is the first argument.  
+- If x is not provided or not an integer, prints: *Missing number of occurrences*
+
