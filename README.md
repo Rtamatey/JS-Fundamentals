@@ -61,3 +61,15 @@ A script that prints a square.
 - Uses a loop (`for`).
 
 
+## 9. Add
+
+**File:** `9-add.js`
+
+A script that prints the addition of 2 integers.
+
+- The first argument is the first integer.
+- The second argument is the second integer.
+- Defines a function with the prototype `function add(a, b)`.
+- Uses `console.log(...)` for all output.
+
+
