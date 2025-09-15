@@ -1,11 +1,5 @@
 
-const a = process.argv[2];
-const b = process.argv[3];
+const arg1 = process.argv[2];
+const arg2 = process.argv[3];
 
-if (a === undefined && b === undefined) {
-  console.log('0 argument');
-} else if (b === undefined) {
-  console.log(a);
-} else {
-  console.log(a + ' ' + b);
-}
+console.log(`${arg1} is ${arg2}`);
