@@ -30,6 +30,14 @@ Prints the first argument passed to the script:
 - If no arguments → `No argument`  
 - If one argument → prints that argument
 
+# 4-concat.js
+
+This script prints two arguments passed to it in the following format:
+Run the script with Node.js:
+
+```bash
+node 4-concat.js arg1 arg2
+
 ### 5. To Integer
 **File:** `5-to_integer.js`  
 Prints the first argument converted to an integer:  
