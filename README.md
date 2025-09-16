@@ -80,4 +80,13 @@ A script that prints the addition of 2 integers.
 - Defines a function with the prototype `function add(a, b)`.
 - Uses `console.log(...)` for all output.
 
+### 10-factorial.js
+- Script computes and prints the factorial of a given integer.
+- The first argument is taken as an integer for computation.
+- Factorial of `NaN` is defined as `1`.
+- Implemented recursively using a function.
+- Usage:
+  ```bash
+  node 10-factorial.js 3
+  # Output: 6
 
